@@ -1,0 +1,11 @@
+p {
+  color: black;
+  text-align: center;
+  font-size: 150%;
+} 
+img {
+   float: right;
+ clip-path: right(40%);
+shape-outside: right(45%);
+ font-size: 150%;
+        }
